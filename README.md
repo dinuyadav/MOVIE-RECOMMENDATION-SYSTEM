@@ -19,3 +19,7 @@ CSS – Custom styling for a modern UI
 Enter a Movie Name – User provides a movie title as input.
 Get Recommendations – The system suggests similar movies.
 View Posters – Displays posters for the recommended movies.
+
+
+
+tmdb_5000_credits.csv.zip is zip file please convert it for run the project.
